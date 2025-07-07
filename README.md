@@ -42,10 +42,7 @@ I'm a passionate **Frontend Engineer** who loves crafting sleek, scalable web an
 ---
 
 ### 🚀 Let's Connect
-- LinkedIn: [(https://linkedin.com/in/enola-roland)]
-- Email: (mailto:aloneroland@gmail.com)
+- LinkedIn: [linkedin.com/in/enola-roland](https://linkedin.com/in/enola-roland)
+- Email: [aloneroland@gmail.com](mailto:aloneroland@gmail.com)
 
----
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mystiexx&show_icons=true&theme=radical)
 
