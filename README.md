@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Roland Enola
 
-<!--
-**mystiexx/mystiexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Frontend Engineer** who loves crafting sleek, scalable web and mobile experiences using modern technologies. I enjoy building responsive UIs, optimizing performance, and bringing ideas to life through code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+**Languages & Frameworks:**
+- JavaScript (ES6+), TypeScript
+- React.js, Next.js, React Native
+- Redux, React Query (TanStack)
+- Node.js (basic)
+
+**Styling & UI:**
+- Tailwind CSS, Chakra UI
+- CSS Modules, SCSS
+
+**Cloud & Deployment:**
+- Firebase (Auth, Firestore, Hosting)
+- Google Cloud Platform (GCP)
+- Vercel
+
+**Tools & Practices:**
+- Git & GitHub
+- Agile, Code Reviews, CI/CD
+- ESLint, Prettier
+
+---
+
+### 📱 Mobile & Cross Platform
+- React Native (Expo & CLI)
+- Building mobile UIs with native feel
+
+---
+
+### 📦 Currently Working On
+- Enhancing performance in React/Next apps  
+- Building scalable components with Chakra UI  
+- Exploring deeper GCP integrations
+
+---
+
+### 🚀 Let's Connect
+- LinkedIn: [[linkedin.com/in/yourhandle](https://linkedin.com/in/enola-roland)]
+- Email: [you@example.com](mailto:aloneroland@gmail.com)
+
+---
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mystiexx&show_icons=true&theme=radical)
+
