@@ -42,8 +42,8 @@ I'm a passionate **Frontend Engineer** who loves crafting sleek, scalable web an
 ---
 
 ### 🚀 Let's Connect
-- LinkedIn: [[linkedin.com/in/yourhandle](https://linkedin.com/in/enola-roland)]
-- Email: [you@example.com](mailto:aloneroland@gmail.com)
+- LinkedIn: [(https://linkedin.com/in/enola-roland)]
+- Email: (mailto:aloneroland@gmail.com)
 
 ---
 
